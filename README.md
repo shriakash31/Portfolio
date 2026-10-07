@@ -10,3 +10,4 @@ Mono black-and-white personal story website.
 ### GitHub Pages
 Upload `index.html`, `style.css`, and `script.js` to the root of a GitHub repository.
 Then go to **Settings → Pages → Deploy from a branch → main → / (root)** and save.
+link - https://shriakash31.github.io/Portfolio/
